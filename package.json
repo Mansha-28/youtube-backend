@@ -1,0 +1,19 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "Backed code for youtube like video player",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Backend",
+    "javascript"
+  ],
+  "author": "Man",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
